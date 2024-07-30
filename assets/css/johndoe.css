@@ -11374,10 +11374,6 @@ p {
   }
 }
 
-.custom-map {
-  height: 400px;
-}
-
 pre {
   border: 2px solid #dee2e6;
   padding: 15px;
@@ -11673,14 +11669,6 @@ pre .code {
   .contact .contact-info-card {
     min-height: auto !important;
   }
-}
-
-.contact .map {
-  position: absolute;
-  left: 0;
-  top: 0;
-  width: 100%;
-  height: 100%;
 }
 
 .contact .contact-form-card,
