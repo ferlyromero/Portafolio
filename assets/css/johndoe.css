@@ -340,7 +340,6 @@ progress {
 .habilidad {
   list-style: none;
   padding: 0;
-
 }
 
 .habilidad li {
@@ -348,6 +347,7 @@ progress {
   gap: 10px;
   align-items: center;
   flex-wrap: nowrap;
+  margin-bottom: -15px;
 }
 .habilidad h6 {
   margin: 0;
@@ -355,7 +355,7 @@ progress {
 
 .habilidad li:before {
   content: "\2022";
-  color: #DC3545; /* change this to the color you want */
+  color: #F85C70; /* change this to the color you want */
   font-size: 35px;
 }
 
@@ -4490,6 +4490,7 @@ input[type="button"].btn-block {
 .nav-link {
   display: block;
   padding: 0.5rem 1rem;
+  font-size: 18px;
 }
 
 .nav-link:hover, .nav-link:focus {
